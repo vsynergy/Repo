@@ -1,0 +1,18 @@
+
+
+
+
+
+
+ Volume in drive C is Windows
+ Volume Serial Number is AA89-8390
+
+ Directory of C:\javadev\testproj1
+
+12/23/2019  12:08 PM    <DIR>          .
+12/23/2019  12:08 PM    <DIR>          ..
+12/23/2019  11:27 AM               426 HelloWorld.class
+12/23/2019  11:06 AM               312 HelloWorld.java
+12/23/2019  12:08 PM                 0 test.txt
+               3 File(s)            738 bytes
+               2 Dir(s)  122,597,318,656 bytes free
