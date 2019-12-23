@@ -2,3 +2,11 @@ git init
 git add *.*
 git commit -m "Comment here"
 git push -u origin master
+git branch "branch1"
+git checkout branch1
+git add *.*
+git commit -m "update"
+git push -u origin "branch1"
+git checkout master
+git branch -d "branch1
+git push origin --delete "branch1"
